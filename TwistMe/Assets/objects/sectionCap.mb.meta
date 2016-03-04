@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: aac3cf8541bbea74aa15bae976aa55ae
+timeCreated: 1441543360
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: curveSmearColor
+    100002: curveSmearColor1
+    100004: curveSmearColor2
+    100006: nurbsCube1
+    100008: nurbsCube2
+    100010: nurbsCube3
+    100012: nurbsCube4
+    100014: nurbsSquare1
+    100016: pCube1
+    100018: pCube2
+    100020: pCylinder1
+    100022: pCylinder2
+    100024: polySurface2
+    100026: //RootNode
+    100028: sectionCap_curveSmearColor
+    100030: sectionCap_curveSmearColor1
+    100032: sectionCap_curveSmearColor2
+    100034: sectionCap_curveSmearColor3
+    100036: sectionCap_curveSmearColor4
+    100038: sectionCap_curveSmearColor5
+    100040: sectionCap_nurbsCube1
+    100042: sectionCap_nurbsCube2
+    100044: sectionCap_nurbsCube3
+    100046: sectionCap_nurbsCube4
+    100048: sectionCap_nurbsCube5
+    100050: sectionCap_nurbsCube6
+    100052: sectionCap_nurbsCube7
+    100054: sectionCap_nurbsCube8
+    100056: sectionCap_nurbsSquare1
+    100058: sectionCap_nurbsSquare2
+    100060: sectionCap_pCube1
+    100062: sectionCap_pCube2
+    100064: sectionCap_pCube3
+    100066: sectionCap_pCylinder1
+    100068: sectionCap_pCylinder2
+    100070: sectionCap_pCylinder3
+    100072: sectionHole_curveSmearColor
+    100074: sectionHole_curveSmearColor1
+    100076: sectionHole_curveSmearColor2
+    100078: sectionHole_nurbsCube1
+    100080: sectionHole_nurbsCube2
+    100082: sectionHole_nurbsSquare1
+    100084: transform1
+    100086: transform1 1
+    100088: transform1 2
+    100090: transform2
+    100092: transform2 1
+    100094: transform2 2
+    100096: transform3
+    100098: transform3 1
+    100100: transform4
+    100102: transform4 1
+    400000: curveSmearColor
+    400002: curveSmearColor1
+    400004: curveSmearColor2
+    400006: nurbsCube1
+    400008: nurbsCube2
+    400010: nurbsCube3
+    400012: nurbsCube4
+    400014: nurbsSquare1
+    400016: pCube1
+    400018: pCube2
+    400020: pCylinder1
+    400022: pCylinder2
+    400024: polySurface2
+    400026: //RootNode
+    400028: sectionCap_curveSmearColor
+    400030: sectionCap_curveSmearColor1
+    400032: sectionCap_curveSmearColor2
+    400034: sectionCap_curveSmearColor3
+    400036: sectionCap_curveSmearColor4
+    400038: sectionCap_curveSmearColor5
+    400040: sectionCap_nurbsCube1
+    400042: sectionCap_nurbsCube2
+    400044: sectionCap_nurbsCube3
+    400046: sectionCap_nurbsCube4
+    400048: sectionCap_nurbsCube5
+    400050: sectionCap_nurbsCube6
+    400052: sectionCap_nurbsCube7
+    400054: sectionCap_nurbsCube8
+    400056: sectionCap_nurbsSquare1
+    400058: sectionCap_nurbsSquare2
+    400060: sectionCap_pCube1
+    400062: sectionCap_pCube2
+    400064: sectionCap_pCube3
+    400066: sectionCap_pCylinder1
+    400068: sectionCap_pCylinder2
+    400070: sectionCap_pCylinder3
+    400072: sectionHole_curveSmearColor
+    400074: sectionHole_curveSmearColor1
+    400076: sectionHole_curveSmearColor2
+    400078: sectionHole_nurbsCube1
+    400080: sectionHole_nurbsCube2
+    400082: sectionHole_nurbsSquare1
+    400084: transform1
+    400086: transform1 1
+    400088: transform1 2
+    400090: transform2
+    400092: transform2 1
+    400094: transform2 2
+    400096: transform3
+    400098: transform3 1
+    400100: transform4
+    400102: transform4 1
+    2300000: polySurface2
+    3300000: polySurface2
+    4300000: polySurface2
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

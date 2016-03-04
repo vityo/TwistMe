@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 2bdd9532fa1e2f44e8a631dc38131842
+timeCreated: 1441546573
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: curveSmearColor
+    100002: curveSmearColor1
+    100004: curveSmearColor2
+    100006: //RootNode
+    100008: nurbsCube1
+    100010: nurbsCube2
+    100012: nurbsCube3
+    100014: nurbsCube4
+    100016: nurbsSquare1
+    100018: pCube1
+    100020: pCube2
+    100022: pCylinder1
+    100024: pCylinder2
+    100026: pCylinder3
+    100028: section_curveSmearColor
+    100030: section_curveSmearColor1
+    100032: section_curveSmearColor2
+    100034: section_nurbsCube1
+    100036: section_nurbsCube2
+    100038: section_nurbsCube3
+    100040: section_nurbsCube4
+    100042: section_nurbsSquare1
+    100044: section_pCube1
+    100046: section_pCylinder1
+    100048: section_sectionHole_curveSmearColor
+    100050: section_sectionHole_curveSmearColor1
+    100052: section_sectionHole_curveSmearColor2
+    100054: section_sectionHole_nurbsCube1
+    100056: section_sectionHole_nurbsCube2
+    100058: section_sectionHole_nurbsSquare1
+    100060: sectionCap_curveSmearColor
+    100062: sectionCap_curveSmearColor1
+    100064: sectionCap_curveSmearColor2
+    100066: sectionCap_curveSmearColor3
+    100068: sectionCap_curveSmearColor4
+    100070: sectionCap_curveSmearColor5
+    100072: sectionCap_nurbsCube1
+    100074: sectionCap_nurbsCube2
+    100076: sectionCap_nurbsCube3
+    100078: sectionCap_nurbsCube4
+    100080: sectionCap_nurbsCube5
+    100082: sectionCap_nurbsCube6
+    100084: sectionCap_nurbsCube7
+    100086: sectionCap_nurbsCube8
+    100088: sectionCap_nurbsSquare1
+    100090: sectionCap_nurbsSquare2
+    100092: sectionCap_pCube1
+    100094: sectionCap_pCube2
+    100096: sectionCap_pCube3
+    100098: sectionCap_pCylinder1
+    100100: sectionCap_pCylinder2
+    100102: sectionCap_pCylinder3
+    100104: sectionHole_curveSmearColor
+    100106: sectionHole_curveSmearColor1
+    100108: sectionHole_curveSmearColor2
+    100110: sectionHole_nurbsCube1
+    100112: sectionHole_nurbsCube2
+    100114: sectionHole_nurbsSquare1
+    100116: transform1
+    100118: transform1 1
+    100120: transform1 2
+    100122: transform1 3
+    100124: transform2
+    100126: transform2 1
+    100128: transform2 2
+    100130: transform2 3
+    100132: transform3
+    100134: transform3 1
+    100136: transform4
+    100138: transform4 1
+    400000: curveSmearColor
+    400002: curveSmearColor1
+    400004: curveSmearColor2
+    400006: //RootNode
+    400008: nurbsCube1
+    400010: nurbsCube2
+    400012: nurbsCube3
+    400014: nurbsCube4
+    400016: nurbsSquare1
+    400018: pCube1
+    400020: pCube2
+    400022: pCylinder1
+    400024: pCylinder2
+    400026: pCylinder3
+    400028: section_curveSmearColor
+    400030: section_curveSmearColor1
+    400032: section_curveSmearColor2
+    400034: section_nurbsCube1
+    400036: section_nurbsCube2
+    400038: section_nurbsCube3
+    400040: section_nurbsCube4
+    400042: section_nurbsSquare1
+    400044: section_pCube1
+    400046: section_pCylinder1
+    400048: section_sectionHole_curveSmearColor
+    400050: section_sectionHole_curveSmearColor1
+    400052: section_sectionHole_curveSmearColor2
+    400054: section_sectionHole_nurbsCube1
+    400056: section_sectionHole_nurbsCube2
+    400058: section_sectionHole_nurbsSquare1
+    400060: sectionCap_curveSmearColor
+    400062: sectionCap_curveSmearColor1
+    400064: sectionCap_curveSmearColor2
+    400066: sectionCap_curveSmearColor3
+    400068: sectionCap_curveSmearColor4
+    400070: sectionCap_curveSmearColor5
+    400072: sectionCap_nurbsCube1
+    400074: sectionCap_nurbsCube2
+    400076: sectionCap_nurbsCube3
+    400078: sectionCap_nurbsCube4
+    400080: sectionCap_nurbsCube5
+    400082: sectionCap_nurbsCube6
+    400084: sectionCap_nurbsCube7
+    400086: sectionCap_nurbsCube8
+    400088: sectionCap_nurbsSquare1
+    400090: sectionCap_nurbsSquare2
+    400092: sectionCap_pCube1
+    400094: sectionCap_pCube2
+    400096: sectionCap_pCube3
+    400098: sectionCap_pCylinder1
+    400100: sectionCap_pCylinder2
+    400102: sectionCap_pCylinder3
+    400104: sectionHole_curveSmearColor
+    400106: sectionHole_curveSmearColor1
+    400108: sectionHole_curveSmearColor2
+    400110: sectionHole_nurbsCube1
+    400112: sectionHole_nurbsCube2
+    400114: sectionHole_nurbsSquare1
+    400116: transform1
+    400118: transform1 1
+    400120: transform1 2
+    400122: transform1 3
+    400124: transform2
+    400126: transform2 1
+    400128: transform2 2
+    400130: transform2 3
+    400132: transform3
+    400134: transform3 1
+    400136: transform4
+    400138: transform4 1
+    2300000: pCylinder3
+    3300000: pCylinder3
+    4300000: pCylinder3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

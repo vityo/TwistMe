@@ -1,0 +1,24 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Create.cs">
+    <Files>
+      <File FileName="Assets\Utils.cs" Line="25" Column="65" />
+      <File FileName="Assets\ObjectsTransform.cs" Line="71" Column="36" />
+      <File FileName="Assets\MagnetismRow.cs" Line="11" Column="1" />
+      <File FileName="Assets\MagnetismColumn.cs" Line="13" Column="75" />
+      <File FileName="Assets\Create.cs" Line="62" Column="1" />
+      <File FileName="Assets\Ball.cs" Line="6" Column="2" />
+      <File FileName="Assets\Model.cs" Line="16" Column="40" />
+      <File FileName="Assets\CameraTransform.cs" Line="49" Column="84" />
+      <File FileName="Assets\ModelStart.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="Assets\CameraTransform.cs" line="55" offsetX="525" offsetY="918" expression="Model.objects._items" liveUpdate="False" />
+    <Watch file="Assets\ObjectsTransform.cs" line="192" offsetX="1637" offsetY="3247" expression="_selectObject" liveUpdate="False" />
+    <Watch file="Assets\ObjectsTransform.cs" line="280" offsetX="957" offsetY="4743" expression="_selectObjects[i].transform.position" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+</Properties>
